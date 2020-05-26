@@ -1,7 +1,7 @@
 # Salvando imagem do Gravatar  
 [Gravatar](http://gravatar.com)
 
-Para isso, basta informar o email da conta e o tamanho da imagem.
+Para isso, execute o programa da pasta store e informe o email da conta e o tamanho da imagem.
 
 Clique em buscar imagem.
 
