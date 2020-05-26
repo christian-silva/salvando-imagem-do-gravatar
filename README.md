@@ -1,0 +1,1 @@
+# salvando-imagem-do-gravatar
