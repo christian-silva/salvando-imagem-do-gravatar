@@ -1,4 +1,5 @@
-# Salvando imagem do gravatar
+# Salvando imagem do Gravatar  
+[Gravatar](www.gravatar.com)
 
 Para isso, basta informar o email da conta e o tamanho da imagem.
 
